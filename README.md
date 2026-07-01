@@ -25,8 +25,7 @@ The dataset contains customer shopping information, including:
 ## 🛠️ Tools & Technologies
 
 * **Python** – Data loading, cleaning, and Exploratory Data Analysis (EDA)
-* **Pandas & NumPy** – Data manipulation and preprocessing
-* **Matplotlib & Seaborn** – Data visualization
+* **Pandas** – Data manipulation and preprocessing
 * **MySQL Workbench** – SQL querying and business analysis
 * **Power BI** – Interactive dashboard development
 * **Gamma** – Presentation creation
