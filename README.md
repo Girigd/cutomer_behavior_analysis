@@ -102,8 +102,7 @@ Key outcomes of the project include:
 
 ## ▶️ How to Run
 
-1. Clone this repository.
-2. Open the Jupyter Notebook and install the required Python libraries.
+1. Clone this VS Code and install the required Python libraries.
 3. Load the dataset and execute the notebook cells.
 4. Import the cleaned dataset into MySQL Workbench to run the SQL queries.
 5. Open the Power BI (.pbix) file to explore the dashboard.
